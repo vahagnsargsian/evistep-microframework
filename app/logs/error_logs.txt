@@ -1,0 +1,267 @@
+[16-May-2016 14:43:18 Europe/Berlin] PHP Notice:  Undefined variable: classname in C:\xampp\htdocs\ash\app\core\Autoloader.php on line 9
+[16-May-2016 14:43:18 Europe/Berlin] PHP Warning:  require_once(C:\xampp\htdocs\ash\app/extensions/.php): failed to open stream: No such file or directory in C:\xampp\htdocs\ash\app\core\Autoloader.php on line 10
+[16-May-2016 14:43:18 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required 'C:\xampp\htdocs\ash\app/extensions/.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\ash\app\core\Autoloader.php on line 10
+[16-May-2016 14:43:40 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 24
+[16-May-2016 14:44:31 Europe/Berlin] PHP Fatal error:  Class 'evicontroller' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 24
+[16-May-2016 14:44:43 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 24
+[16-May-2016 14:46:07 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 25
+[16-May-2016 14:46:15 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 25
+[16-May-2016 14:46:35 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 25
+[16-May-2016 14:55:32 Europe/Berlin] PHP Fatal error:  Call to undefined method Router::getURI() in C:\xampp\htdocs\ash\app\core\Router.php on line 45
+[16-May-2016 14:57:05 Europe/Berlin] PHP Notice:  Undefined variable: uriPattern in C:\xampp\htdocs\ash\app\core\Router.php on line 46
+[16-May-2016 14:57:05 Europe/Berlin] PHP Notice:  Undefined variable: uri in C:\xampp\htdocs\ash\app\core\Router.php on line 46
+[16-May-2016 14:57:05 Europe/Berlin] PHP Notice:  Undefined variable: uriPattern in C:\xampp\htdocs\ash\app\core\Router.php on line 47
+[16-May-2016 14:57:05 Europe/Berlin] PHP Notice:  Undefined variable: path in C:\xampp\htdocs\ash\app\core\Router.php on line 47
+[16-May-2016 14:57:05 Europe/Berlin] PHP Notice:  Undefined variable: uri in C:\xampp\htdocs\ash\app\core\Router.php on line 47
+[16-May-2016 14:57:05 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 59
+[16-May-2016 14:58:49 Europe/Berlin] PHP Notice:  Undefined variable: uriPattern in C:\xampp\htdocs\ash\app\core\Router.php on line 62
+[16-May-2016 14:58:49 Europe/Berlin] PHP Notice:  Undefined variable: uriPattern in C:\xampp\htdocs\ash\app\core\Router.php on line 63
+[16-May-2016 14:58:49 Europe/Berlin] PHP Notice:  Undefined variable: path in C:\xampp\htdocs\ash\app\core\Router.php on line 63
+[16-May-2016 14:58:49 Europe/Berlin] PHP Fatal error:  Class 'AshController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 75
+[16-May-2016 15:00:08 Europe/Berlin] PHP Notice:  Undefined variable: uriPattern in C:\xampp\htdocs\ash\app\core\Router.php on line 62
+[16-May-2016 15:00:08 Europe/Berlin] PHP Notice:  Undefined variable: uriPattern in C:\xampp\htdocs\ash\app\core\Router.php on line 63
+[16-May-2016 15:00:08 Europe/Berlin] PHP Notice:  Undefined variable: path in C:\xampp\htdocs\ash\app\core\Router.php on line 63
+[16-May-2016 15:00:08 Europe/Berlin] PHP Fatal error:  Class 'AshController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 75
+[16-May-2016 15:25:35 Europe/Berlin] PHP Fatal error:  Call to undefined method Router::parseUrl() in C:\xampp\htdocs\ash\app\core\Router.php on line 13
+[16-May-2016 15:26:14 Europe/Berlin] PHP Fatal error:  Call to undefined method Router::parseUrl() in C:\xampp\htdocs\ash\app\core\Router.php on line 13
+[16-May-2016 15:26:15 Europe/Berlin] PHP Fatal error:  Call to undefined method Router::parseUrl() in C:\xampp\htdocs\ash\app\core\Router.php on line 13
+[16-May-2016 15:26:18 Europe/Berlin] PHP Fatal error:  Call to undefined method Router::parseUrl() in C:\xampp\htdocs\ash\app\core\Router.php on line 13
+[16-May-2016 15:27:11 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 25
+[16-May-2016 15:35:31 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 25
+[16-May-2016 15:35:55 Europe/Berlin] PHP Warning:  require_once(app/controllers/EviController.php): failed to open stream: No such file or directory in C:\xampp\htdocs\ash\app\core\Router.php on line 23
+[16-May-2016 15:35:55 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required 'app/controllers/EviController.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\ash\app\core\Router.php on line 23
+[16-May-2016 15:36:04 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 25
+[16-May-2016 15:36:41 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 25
+[16-May-2016 15:36:49 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 25
+[16-May-2016 15:36:55 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 25
+[16-May-2016 15:37:04 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 25
+[16-May-2016 15:37:11 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 25
+[16-May-2016 15:37:32 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 25
+[16-May-2016 15:37:39 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 25
+[16-May-2016 15:38:04 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 25
+[16-May-2016 15:38:14 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 25
+[16-May-2016 15:38:17 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 25
+[16-May-2016 15:38:31 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 25
+[16-May-2016 15:38:48 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 26
+[16-May-2016 15:39:13 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 26
+[16-May-2016 15:39:32 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 24
+[16-May-2016 15:39:36 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 24
+[16-May-2016 15:39:43 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 25
+[16-May-2016 15:39:50 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 25
+[16-May-2016 15:39:56 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 25
+[16-May-2016 15:40:05 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 25
+[16-May-2016 15:40:07 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 25
+[16-May-2016 15:40:07 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 25
+[16-May-2016 15:40:07 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 25
+[16-May-2016 15:40:07 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 25
+[16-May-2016 15:40:28 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 25
+[16-May-2016 15:40:38 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 25
+[16-May-2016 15:40:58 Europe/Berlin] PHP Warning:  require_once(../controllers/EviController.php): failed to open stream: No such file or directory in C:\xampp\htdocs\ash\app\core\Router.php on line 23
+[16-May-2016 15:40:58 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required '../controllers/EviController.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\ash\app\core\Router.php on line 23
+[16-May-2016 15:41:01 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 25
+[16-May-2016 15:41:11 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 25
+[16-May-2016 15:42:10 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 25
+[16-May-2016 15:42:20 Europe/Berlin] PHP Warning:  require_once(../app/EviController.php): failed to open stream: No such file or directory in C:\xampp\htdocs\ash\app\core\Router.php on line 23
+[16-May-2016 15:42:20 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required '../app/EviController.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\ash\app\core\Router.php on line 23
+[16-May-2016 15:42:29 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 25
+[16-May-2016 15:42:53 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 25
+[16-May-2016 15:42:57 Europe/Berlin] PHP Warning:  require_once(../controllers/EviController.php): failed to open stream: No such file or directory in C:\xampp\htdocs\ash\app\core\Router.php on line 23
+[16-May-2016 15:42:57 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required '../controllers/EviController.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\ash\app\core\Router.php on line 23
+[16-May-2016 15:43:22 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 25
+[16-May-2016 15:43:31 Europe/Berlin] PHP Warning:  require_once(C:\xampp\htdocs\ash\appcontrollers/EviController.php): failed to open stream: No such file or directory in C:\xampp\htdocs\ash\app\core\Router.php on line 23
+[16-May-2016 15:43:31 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required 'C:\xampp\htdocs\ash\appcontrollers/EviController.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\ash\app\core\Router.php on line 23
+[16-May-2016 15:43:34 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 25
+[16-May-2016 15:44:00 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 26
+[16-May-2016 15:44:22 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 26
+[16-May-2016 15:44:22 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 26
+[16-May-2016 15:44:33 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 26
+[16-May-2016 15:44:39 Europe/Berlin] PHP Warning:  require_once(C:\xampp\htdocs\ash\appcontrollers/EviController.php): failed to open stream: No such file or directory in C:\xampp\htdocs\ash\app\core\Router.php on line 24
+[16-May-2016 15:44:39 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required 'C:\xampp\htdocs\ash\appcontrollers/EviController.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\ash\app\core\Router.php on line 24
+[16-May-2016 15:45:00 Europe/Berlin] PHP Warning:  require_once(C:\xampp\htdocs\ash\app\controllersEviController.php): failed to open stream: No such file or directory in C:\xampp\htdocs\ash\app\core\Router.php on line 24
+[16-May-2016 15:45:00 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required 'C:\xampp\htdocs\ash\app\controllersEviController.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\ash\app\core\Router.php on line 24
+[16-May-2016 15:45:07 Europe/Berlin] PHP Warning:  require_once(C:\xampp\htdocs\ash\appcontrollersEviController.php): failed to open stream: No such file or directory in C:\xampp\htdocs\ash\app\core\Router.php on line 24
+[16-May-2016 15:45:07 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required 'C:\xampp\htdocs\ash\appcontrollersEviController.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\ash\app\core\Router.php on line 24
+[16-May-2016 15:45:12 Europe/Berlin] PHP Warning:  require_once(C:\xampp\htdocs\ash\app\controllersEviController.php): failed to open stream: No such file or directory in C:\xampp\htdocs\ash\app\core\Router.php on line 24
+[16-May-2016 15:45:12 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required 'C:\xampp\htdocs\ash\app\controllersEviController.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\ash\app\core\Router.php on line 24
+[16-May-2016 15:45:21 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 26
+[16-May-2016 15:45:30 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 26
+[16-May-2016 15:45:30 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 26
+[16-May-2016 15:45:31 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 26
+[16-May-2016 15:45:31 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 26
+[16-May-2016 15:45:31 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 26
+[16-May-2016 15:45:47 Europe/Berlin] PHP Parse error:  syntax error, unexpected '';' (T_CONSTANT_ENCAPSED_STRING) in C:\xampp\htdocs\ash\app\core\Router.php on line 48
+[16-May-2016 15:46:03 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 26
+[16-May-2016 15:46:07 Europe/Berlin] PHP Fatal error:  Class 'EviController' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 26
+[16-May-2016 15:47:03 Europe/Berlin] PHP Warning:  require_once(C:\xampp\htdocs\ash\appEviController.php): failed to open stream: No such file or directory in C:\xampp\htdocs\ash\app\core\Router.php on line 23
+[16-May-2016 15:47:03 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required 'C:\xampp\htdocs\ash\appEviController.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\ash\app\core\Router.php on line 23
+[16-May-2016 15:47:23 Europe/Berlin] PHP Warning:  require_once(../C:\xampp\htdocs\ash\app/controllers/EviController.php): failed to open stream: Invalid argument in C:\xampp\htdocs\ash\app\core\Router.php on line 23
+[16-May-2016 15:47:23 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required '../C:\xampp\htdocs\ash\app/controllers/EviController.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\ash\app\core\Router.php on line 23
+[16-May-2016 15:47:47 Europe/Berlin] PHP Warning:  require_once(../C:\xampp\htdocs\ash\app/controllers/EviController.php): failed to open stream: Invalid argument in C:\xampp\htdocs\ash\app\core\Router.php on line 23
+[16-May-2016 15:47:47 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required '../C:\xampp\htdocs\ash\app/controllers/EviController.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\ash\app\core\Router.php on line 23
+[16-May-2016 15:47:54 Europe/Berlin] PHP Warning:  require_once(../C:\xampp\htdocs\ash\app/controllers/EviController.php): failed to open stream: Invalid argument in C:\xampp\htdocs\ash\app\core\Router.php on line 23
+[16-May-2016 15:47:54 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required '../C:\xampp\htdocs\ash\app/controllers/EviController.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\ash\app\core\Router.php on line 23
+[16-May-2016 15:48:41 Europe/Berlin] PHP Warning:  require_once(../C:\xampp\htdocs\ash\app/controllers/EviController.php): failed to open stream: Invalid argument in C:\xampp\htdocs\ash\app\core\Router.php on line 23
+[16-May-2016 15:48:41 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required '../C:\xampp\htdocs\ash\app/controllers/EviController.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\ash\app\core\Router.php on line 23
+[16-May-2016 15:50:58 Europe/Berlin] PHP Notice:  Undefined index: url in C:\xampp\htdocs\ash\app\core\Router.php on line 56
+[16-May-2016 15:51:40 Europe/Berlin] PHP Notice:  Undefined index: url in C:\xampp\htdocs\ash\app\core\Router.php on line 56
+[16-May-2016 15:54:42 Europe/Berlin] PHP Warning:  require_once(../app/controllers/EviControllerController.php): failed to open stream: No such file or directory in C:\xampp\htdocs\ash\app\core\Router.php on line 20
+[16-May-2016 15:54:42 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required '../app/controllers/EviControllerController.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\ash\app\core\Router.php on line 20
+[16-May-2016 15:55:37 Europe/Berlin] PHP Warning:  require_once(../app/controllers/EviControllerController.php): failed to open stream: No such file or directory in C:\xampp\htdocs\ash\app\core\Router.php on line 20
+[16-May-2016 15:55:37 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required '../app/controllers/EviControllerController.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\ash\app\core\Router.php on line 20
+[16-May-2016 15:55:58 Europe/Berlin] PHP Notice:  Undefined variable: uriPattern in C:\xampp\htdocs\ash\app\core\Router.php on line 20
+[16-May-2016 15:55:58 Europe/Berlin] PHP Notice:  Undefined variable: path in C:\xampp\htdocs\ash\app\core\Router.php on line 20
+[16-May-2016 15:55:58 Europe/Berlin] PHP Notice:  Undefined variable: uri in C:\xampp\htdocs\ash\app\core\Router.php on line 20
+[16-May-2016 15:55:58 Europe/Berlin] PHP Warning:  require_once(../app/controllers/EviControllerController.php): failed to open stream: No such file or directory in C:\xampp\htdocs\ash\app\core\Router.php on line 25
+[16-May-2016 15:55:58 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required '../app/controllers/EviControllerController.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\ash\app\core\Router.php on line 25
+[16-May-2016 15:57:12 Europe/Berlin] PHP Notice:  Undefined variable: uriPattern in C:\xampp\htdocs\ash\app\core\Router.php on line 21
+[16-May-2016 15:57:12 Europe/Berlin] PHP Notice:  Undefined variable: uri in C:\xampp\htdocs\ash\app\core\Router.php on line 21
+[16-May-2016 15:57:12 Europe/Berlin] PHP Notice:  Undefined variable: uriPattern in C:\xampp\htdocs\ash\app\core\Router.php on line 22
+[16-May-2016 15:57:12 Europe/Berlin] PHP Notice:  Undefined variable: path in C:\xampp\htdocs\ash\app\core\Router.php on line 22
+[16-May-2016 15:57:12 Europe/Berlin] PHP Notice:  Undefined variable: uri in C:\xampp\htdocs\ash\app\core\Router.php on line 22
+[16-May-2016 15:57:12 Europe/Berlin] PHP Fatal error:  Class 'Controller' not found in C:\xampp\htdocs\ash\app\core\Router.php on line 34
+[16-May-2016 15:58:21 Europe/Berlin] PHP Notice:  Undefined index: url in C:\xampp\htdocs\ash\app\core\Router.php on line 83
+[16-May-2016 15:58:21 Europe/Berlin] PHP Notice:  Undefined variable: uriPattern in C:\xampp\htdocs\ash\app\core\Router.php on line 21
+[16-May-2016 15:58:21 Europe/Berlin] PHP Notice:  Undefined variable: uri in C:\xampp\htdocs\ash\app\core\Router.php on line 21
+[16-May-2016 15:58:21 Europe/Berlin] PHP Notice:  Undefined variable: uriPattern in C:\xampp\htdocs\ash\app\core\Router.php on line 22
+[16-May-2016 15:58:21 Europe/Berlin] PHP Notice:  Undefined variable: path in C:\xampp\htdocs\ash\app\core\Router.php on line 22
+[16-May-2016 15:58:21 Europe/Berlin] PHP Notice:  Undefined variable: uri in C:\xampp\htdocs\ash\app\core\Router.php on line 22
+[16-May-2016 15:58:21 Europe/Berlin] PHP Notice:  Undefined variable: controllerFile in C:\xampp\htdocs\ash\app\core\Router.php on line 29
+[16-May-2016 15:58:21 Europe/Berlin] PHP Notice:  Undefined variable: controllerName in C:\xampp\htdocs\ash\app\core\Router.php on line 34
+[16-May-2016 15:58:21 Europe/Berlin] PHP Fatal error:  Class name must be a valid object or a string in C:\xampp\htdocs\ash\app\core\Router.php on line 34
+[16-May-2016 15:58:24 Europe/Berlin] PHP Notice:  Undefined variable: uriPattern in C:\xampp\htdocs\ash\app\core\Router.php on line 21
+[16-May-2016 15:58:24 Europe/Berlin] PHP Notice:  Undefined variable: uri in C:\xampp\htdocs\ash\app\core\Router.php on line 21
+[16-May-2016 15:58:24 Europe/Berlin] PHP Notice:  Undefined variable: uriPattern in C:\xampp\htdocs\ash\app\core\Router.php on line 22
+[16-May-2016 15:58:24 Europe/Berlin] PHP Notice:  Undefined variable: path in C:\xampp\htdocs\ash\app\core\Router.php on line 22
+[16-May-2016 15:58:24 Europe/Berlin] PHP Notice:  Undefined variable: uri in C:\xampp\htdocs\ash\app\core\Router.php on line 22
+[16-May-2016 15:58:24 Europe/Berlin] PHP Notice:  Undefined variable: controllerFile in C:\xampp\htdocs\ash\app\core\Router.php on line 29
+[16-May-2016 15:58:24 Europe/Berlin] PHP Notice:  Undefined variable: controllerName in C:\xampp\htdocs\ash\app\core\Router.php on line 34
+[16-May-2016 15:58:24 Europe/Berlin] PHP Fatal error:  Class name must be a valid object or a string in C:\xampp\htdocs\ash\app\core\Router.php on line 34
+[16-May-2016 15:58:40 Europe/Berlin] PHP Notice:  Undefined variable: uriPattern in C:\xampp\htdocs\ash\app\core\Router.php on line 21
+[16-May-2016 15:58:40 Europe/Berlin] PHP Notice:  Undefined variable: uri in C:\xampp\htdocs\ash\app\core\Router.php on line 21
+[16-May-2016 15:58:40 Europe/Berlin] PHP Notice:  Undefined variable: uriPattern in C:\xampp\htdocs\ash\app\core\Router.php on line 22
+[16-May-2016 15:58:40 Europe/Berlin] PHP Notice:  Undefined variable: path in C:\xampp\htdocs\ash\app\core\Router.php on line 22
+[16-May-2016 15:58:40 Europe/Berlin] PHP Notice:  Undefined variable: uri in C:\xampp\htdocs\ash\app\core\Router.php on line 22
+[16-May-2016 15:58:40 Europe/Berlin] PHP Notice:  Undefined variable: controllerFile in C:\xampp\htdocs\ash\app\core\Router.php on line 29
+[16-May-2016 15:58:40 Europe/Berlin] PHP Notice:  Undefined variable: controllerName in C:\xampp\htdocs\ash\app\core\Router.php on line 34
+[16-May-2016 15:58:40 Europe/Berlin] PHP Fatal error:  Class name must be a valid object or a string in C:\xampp\htdocs\ash\app\core\Router.php on line 34
+[16-May-2016 15:58:42 Europe/Berlin] PHP Notice:  Undefined variable: uriPattern in C:\xampp\htdocs\ash\app\core\Router.php on line 21
+[16-May-2016 15:58:42 Europe/Berlin] PHP Notice:  Undefined variable: uri in C:\xampp\htdocs\ash\app\core\Router.php on line 21
+[16-May-2016 15:58:42 Europe/Berlin] PHP Notice:  Undefined variable: uriPattern in C:\xampp\htdocs\ash\app\core\Router.php on line 22
+[16-May-2016 15:58:42 Europe/Berlin] PHP Notice:  Undefined variable: path in C:\xampp\htdocs\ash\app\core\Router.php on line 22
+[16-May-2016 15:58:42 Europe/Berlin] PHP Notice:  Undefined variable: uri in C:\xampp\htdocs\ash\app\core\Router.php on line 22
+[16-May-2016 15:58:42 Europe/Berlin] PHP Notice:  Undefined variable: controllerFile in C:\xampp\htdocs\ash\app\core\Router.php on line 29
+[16-May-2016 15:58:42 Europe/Berlin] PHP Notice:  Undefined variable: controllerName in C:\xampp\htdocs\ash\app\core\Router.php on line 34
+[16-May-2016 15:58:42 Europe/Berlin] PHP Fatal error:  Class name must be a valid object or a string in C:\xampp\htdocs\ash\app\core\Router.php on line 34
+[16-May-2016 15:58:42 Europe/Berlin] PHP Notice:  Undefined variable: uriPattern in C:\xampp\htdocs\ash\app\core\Router.php on line 21
+[16-May-2016 15:58:42 Europe/Berlin] PHP Notice:  Undefined variable: uri in C:\xampp\htdocs\ash\app\core\Router.php on line 21
+[16-May-2016 15:58:42 Europe/Berlin] PHP Notice:  Undefined variable: uriPattern in C:\xampp\htdocs\ash\app\core\Router.php on line 22
+[16-May-2016 15:58:42 Europe/Berlin] PHP Notice:  Undefined variable: path in C:\xampp\htdocs\ash\app\core\Router.php on line 22
+[16-May-2016 15:58:42 Europe/Berlin] PHP Notice:  Undefined variable: uri in C:\xampp\htdocs\ash\app\core\Router.php on line 22
+[16-May-2016 15:58:42 Europe/Berlin] PHP Notice:  Undefined variable: controllerFile in C:\xampp\htdocs\ash\app\core\Router.php on line 29
+[16-May-2016 15:58:42 Europe/Berlin] PHP Notice:  Undefined variable: controllerName in C:\xampp\htdocs\ash\app\core\Router.php on line 34
+[16-May-2016 15:58:42 Europe/Berlin] PHP Fatal error:  Class name must be a valid object or a string in C:\xampp\htdocs\ash\app\core\Router.php on line 34
+[16-May-2016 16:08:52 Europe/Berlin] PHP Notice:  Undefined variable: uriPattern in C:\xampp\htdocs\ash\app\core\Router.php on line 21
+[16-May-2016 16:08:52 Europe/Berlin] PHP Notice:  Undefined variable: uri in C:\xampp\htdocs\ash\app\core\Router.php on line 21
+[16-May-2016 16:08:52 Europe/Berlin] PHP Notice:  Undefined variable: uriPattern in C:\xampp\htdocs\ash\app\core\Router.php on line 22
+[16-May-2016 16:08:52 Europe/Berlin] PHP Notice:  Undefined variable: path in C:\xampp\htdocs\ash\app\core\Router.php on line 22
+[16-May-2016 16:08:52 Europe/Berlin] PHP Notice:  Undefined variable: uri in C:\xampp\htdocs\ash\app\core\Router.php on line 22
+[16-May-2016 16:08:52 Europe/Berlin] PHP Notice:  Undefined variable: controllerFile in C:\xampp\htdocs\ash\app\core\Router.php on line 29
+[16-May-2016 16:08:52 Europe/Berlin] PHP Notice:  Undefined variable: controllerName in C:\xampp\htdocs\ash\app\core\Router.php on line 34
+[16-May-2016 16:08:52 Europe/Berlin] PHP Fatal error:  Class name must be a valid object or a string in C:\xampp\htdocs\ash\app\core\Router.php on line 34
+[16-May-2016 16:24:40 Europe/Berlin] PHP Notice:  Undefined index: url in C:\xampp\htdocs\Evi\app\core\Router.php on line 56
+[16-May-2016 17:37:47 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'getController' (T_STRING), expecting variable (T_VARIABLE) in C:\xampp\htdocs\Evi\app\core\Router.php on line 38
+[16-May-2016 17:39:52 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'getController' (T_STRING), expecting variable (T_VARIABLE) in C:\xampp\htdocs\Evi\app\core\Router.php on line 36
+[16-May-2016 17:44:15 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'getController' (T_STRING), expecting variable (T_VARIABLE) in C:\xampp\htdocs\Evi\app\core\Router.php on line 39
+[16-May-2016 17:44:43 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'getsController' (T_STRING), expecting variable (T_VARIABLE) in C:\xampp\htdocs\Evi\app\core\Router.php on line 39
+[16-May-2016 17:44:55 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'getActions' (T_STRING), expecting variable (T_VARIABLE) in C:\xampp\htdocs\Evi\app\core\Router.php on line 39
+[16-May-2016 17:48:53 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}' in C:\xampp\htdocs\Evi\app\core\Router.php on line 37
+[16-May-2016 17:49:45 Europe/Berlin] PHP Parse error:  syntax error, unexpected ',' in C:\xampp\htdocs\Evi\app\core\Router.php on line 54
+[16-May-2016 17:50:21 Europe/Berlin] PHP Warning:  The magic method __get() must have public visibility and cannot be static in C:\xampp\htdocs\Evi\app\core\BaseController.php on line 7
+[16-May-2016 17:50:21 Europe/Berlin] PHP Warning:  The magic method __set() must have public visibility and cannot be static in C:\xampp\htdocs\Evi\app\core\BaseController.php on line 14
+[16-May-2016 17:50:21 Europe/Berlin] PHP Notice:  Undefined index: url in C:\xampp\htdocs\Evi\app\core\Router.php on line 36
+[16-May-2016 17:50:21 Europe/Berlin] PHP Warning:  require_once(../app/controllers/IndexControllerController.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Evi\app\core\Router.php on line 20
+[16-May-2016 17:50:21 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required '../app/controllers/IndexControllerController.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Evi\app\core\Router.php on line 20
+[16-May-2016 17:51:51 Europe/Berlin] PHP Parse error:  syntax error, unexpected ',' in C:\xampp\htdocs\Evi\app\core\Router.php on line 54
+[16-May-2016 17:52:05 Europe/Berlin] PHP Warning:  The magic method __get() must have public visibility and cannot be static in C:\xampp\htdocs\Evi\app\core\BaseController.php on line 7
+[16-May-2016 17:52:05 Europe/Berlin] PHP Warning:  The magic method __set() must have public visibility and cannot be static in C:\xampp\htdocs\Evi\app\core\BaseController.php on line 14
+[16-May-2016 17:52:05 Europe/Berlin] PHP Notice:  Undefined index: url in C:\xampp\htdocs\Evi\app\core\Router.php on line 36
+[16-May-2016 17:52:05 Europe/Berlin] PHP Warning:  require_once(../app/controllers/IndexControllerController.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Evi\app\core\Router.php on line 20
+[16-May-2016 17:52:05 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required '../app/controllers/IndexControllerController.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Evi\app\core\Router.php on line 20
+[16-May-2016 17:52:39 Europe/Berlin] PHP Warning:  The magic method __get() must have public visibility and cannot be static in C:\xampp\htdocs\Evi\app\core\BaseController.php on line 7
+[16-May-2016 17:52:39 Europe/Berlin] PHP Warning:  The magic method __set() must have public visibility and cannot be static in C:\xampp\htdocs\Evi\app\core\BaseController.php on line 14
+[16-May-2016 17:52:39 Europe/Berlin] PHP Notice:  Undefined index: url in C:\xampp\htdocs\Evi\app\core\Router.php on line 36
+[16-May-2016 17:52:39 Europe/Berlin] PHP Notice:  Undefined variable: url in C:\xampp\htdocs\Evi\app\core\Router.php on line 36
+[16-May-2016 17:52:39 Europe/Berlin] PHP Fatal error:  Cannot access empty property in C:\xampp\htdocs\Evi\app\core\Router.php on line 36
+[16-May-2016 17:52:57 Europe/Berlin] PHP Warning:  The magic method __get() must have public visibility and cannot be static in C:\xampp\htdocs\Evi\app\core\BaseController.php on line 7
+[16-May-2016 17:52:57 Europe/Berlin] PHP Warning:  The magic method __set() must have public visibility and cannot be static in C:\xampp\htdocs\Evi\app\core\BaseController.php on line 14
+[16-May-2016 17:52:57 Europe/Berlin] PHP Notice:  Undefined index: url in C:\xampp\htdocs\Evi\app\core\Router.php on line 36
+[16-May-2016 17:52:57 Europe/Berlin] PHP Warning:  require_once(../app/controllers/IndexControllerController.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Evi\app\core\Router.php on line 20
+[16-May-2016 17:52:57 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required '../app/controllers/IndexControllerController.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Evi\app\core\Router.php on line 20
+[16-May-2016 17:55:12 Europe/Berlin] PHP Warning:  The magic method __get() must have public visibility and cannot be static in C:\xampp\htdocs\Evi\app\core\BaseController.php on line 7
+[16-May-2016 17:55:12 Europe/Berlin] PHP Warning:  The magic method __set() must have public visibility and cannot be static in C:\xampp\htdocs\Evi\app\core\BaseController.php on line 14
+[16-May-2016 17:55:12 Europe/Berlin] PHP Notice:  Undefined index: url in C:\xampp\htdocs\Evi\app\core\Router.php on line 36
+[16-May-2016 17:55:12 Europe/Berlin] PHP Warning:  require_once(../app/controllers/IndexControllerController.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Evi\app\core\Router.php on line 20
+[16-May-2016 17:55:12 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required '../app/controllers/IndexControllerController.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Evi\app\core\Router.php on line 20
+[16-May-2016 17:56:07 Europe/Berlin] PHP Notice:  Undefined index: url in C:\xampp\htdocs\Evi\app\core\Router.php on line 36
+[16-May-2016 17:56:07 Europe/Berlin] PHP Warning:  require_once(../app/controllers/IndexControllerController.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Evi\app\core\Router.php on line 20
+[16-May-2016 17:56:07 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required '../app/controllers/IndexControllerController.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Evi\app\core\Router.php on line 20
+[16-May-2016 17:58:07 Europe/Berlin] PHP Notice:  Undefined index: url in C:\xampp\htdocs\Evi\app\core\Router.php on line 36
+[16-May-2016 17:58:07 Europe/Berlin] PHP Fatal error:  Class 'ucfirst' not found in C:\xampp\htdocs\Evi\app\core\Router.php on line 22
+[16-May-2016 17:59:01 Europe/Berlin] PHP Notice:  Undefined index: url in C:\xampp\htdocs\Evi\app\core\Router.php on line 36
+[16-May-2016 17:59:01 Europe/Berlin] PHP Notice:  Undefined variable: controller in C:\xampp\htdocs\Evi\app\core\Router.php on line 19
+[16-May-2016 17:59:01 Europe/Berlin] PHP Fatal error:  Class 'ucfirst' not found in C:\xampp\htdocs\Evi\app\core\Router.php on line 22
+[16-May-2016 17:59:17 Europe/Berlin] PHP Notice:  Undefined index: url in C:\xampp\htdocs\Evi\app\core\Router.php on line 36
+[16-May-2016 17:59:17 Europe/Berlin] PHP Fatal error:  Class 'ucfirst' not found in C:\xampp\htdocs\Evi\app\core\Router.php on line 22
+[16-May-2016 17:59:53 Europe/Berlin] PHP Notice:  Undefined index: url in C:\xampp\htdocs\Evi\app\core\Router.php on line 36
+[16-May-2016 17:59:53 Europe/Berlin] PHP Warning:  call_user_func_array() expects exactly 2 parameters, 1 given in C:\xampp\htdocs\Evi\app\core\Router.php on line 30
+[16-May-2016 18:01:01 Europe/Berlin] PHP Notice:  Undefined index: url in C:\xampp\htdocs\Evi\app\core\Router.php on line 36
+[16-May-2016 18:01:01 Europe/Berlin] PHP Warning:  call_user_func_array() expects exactly 2 parameters, 1 given in C:\xampp\htdocs\Evi\app\core\Router.php on line 30
+[16-May-2016 18:02:20 Europe/Berlin] PHP Notice:  Undefined index: url in C:\xampp\htdocs\Evi\app\core\Router.php on line 38
+[16-May-2016 18:02:20 Europe/Berlin] PHP Warning:  call_user_func_array() expects exactly 2 parameters, 1 given in C:\xampp\htdocs\Evi\app\core\Router.php on line 32
+[16-May-2016 18:06:56 Europe/Berlin] PHP Notice:  Undefined index: url in C:\xampp\htdocs\Evi\app\core\Router.php on line 38
+[16-May-2016 18:07:10 Europe/Berlin] PHP Notice:  Undefined index: url in C:\xampp\htdocs\Evi\app\core\Router.php on line 38
+[16-May-2016 18:07:49 Europe/Berlin] PHP Notice:  Undefined index: url in C:\xampp\htdocs\Evi\app\core\Router.php on line 38
+[16-May-2016 18:07:51 Europe/Berlin] PHP Notice:  Undefined index: url in C:\xampp\htdocs\Evi\app\core\Router.php on line 38
+[16-May-2016 18:14:16 Europe/Berlin] PHP Warning:  require_once(../app/controllers/EviController.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Evi\app\core\Router.php on line 22
+[16-May-2016 18:14:16 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required '../app/controllers/EviController.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Evi\app\core\Router.php on line 22
+[16-May-2016 18:18:05 Europe/Berlin] PHP Catchable fatal error:  Object of class IndexController could not be converted to string in C:\xampp\htdocs\Evi\app\core\Router.php on line 32
+[16-May-2016 18:18:15 Europe/Berlin] PHP Notice:  Undefined variable: method in C:\xampp\htdocs\Evi\app\core\Router.php on line 32
+[16-May-2016 18:18:30 Europe/Berlin] PHP Notice:  Undefined variable: index in C:\xampp\htdocs\Evi\app\core\Router.php on line 34
+[16-May-2016 18:19:16 Europe/Berlin] PHP Fatal error:  Call to undefined method IndexController::model() in C:\xampp\htdocs\Evi\app\controllers\IndexController.php on line 17
+[16-May-2016 18:19:28 Europe/Berlin] PHP Fatal error:  Call to undefined method IndexController::model() in C:\xampp\htdocs\Evi\app\controllers\IndexController.php on line 16
+[16-May-2016 18:20:01 Europe/Berlin] PHP Fatal error:  Call to undefined method IndexController::model() in C:\xampp\htdocs\Evi\app\controllers\IndexController.php on line 16
+[16-May-2016 18:22:20 Europe/Berlin] PHP Parse error:  syntax error, unexpected '=', expecting ';' in C:\xampp\htdocs\Evi\app\core\Router.php on line 34
+[16-May-2016 18:23:12 Europe/Berlin] PHP Parse error:  syntax error, unexpected '=', expecting ';' in C:\xampp\htdocs\Evi\app\core\Router.php on line 34
+[16-May-2016 18:23:13 Europe/Berlin] PHP Parse error:  syntax error, unexpected '=', expecting ';' in C:\xampp\htdocs\Evi\app\core\Router.php on line 34
+[16-May-2016 18:23:19 Europe/Berlin] PHP Parse error:  syntax error, unexpected '=', expecting ';' in C:\xampp\htdocs\Evi\app\core\Router.php on line 34
+[16-May-2016 18:23:20 Europe/Berlin] PHP Parse error:  syntax error, unexpected '=', expecting ';' in C:\xampp\htdocs\Evi\app\core\Router.php on line 34
+[16-May-2016 18:23:20 Europe/Berlin] PHP Parse error:  syntax error, unexpected '=', expecting ';' in C:\xampp\htdocs\Evi\app\core\Router.php on line 34
+[16-May-2016 18:23:49 Europe/Berlin] PHP Fatal error:  Call to undefined method IndexController::model() in C:\xampp\htdocs\Evi\app\controllers\IndexController.php on line 16
+[16-May-2016 18:23:56 Europe/Berlin] PHP Fatal error:  Call to undefined method IndexController::model() in C:\xampp\htdocs\Evi\app\controllers\IndexController.php on line 16
+[16-May-2016 18:23:59 Europe/Berlin] PHP Fatal error:  Call to undefined method IndexController::model() in C:\xampp\htdocs\Evi\app\controllers\IndexController.php on line 16
+[16-May-2016 18:24:23 Europe/Berlin] PHP Fatal error:  Call to undefined method IndexController::model() in C:\xampp\htdocs\Evi\app\controllers\IndexController.php on line 16
+[16-May-2016 18:25:46 Europe/Berlin] PHP Fatal error:  Call to undefined method IndexController::model() in C:\xampp\htdocs\Evi\app\controllers\IndexController.php on line 16
+[16-May-2016 18:26:06 Europe/Berlin] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in C:\xampp\htdocs\Evi\app\core\Router.php on line 61
+[16-May-2016 18:26:06 Europe/Berlin] PHP Fatal error:  Call to undefined method IndexController::model() in C:\xampp\htdocs\Evi\app\controllers\IndexController.php on line 16
+[16-May-2016 18:26:35 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')' in C:\xampp\htdocs\Evi\app\core\Router.php on line 61
+[16-May-2016 18:26:46 Europe/Berlin] PHP Fatal error:  Call to undefined method IndexController::model() in C:\xampp\htdocs\Evi\app\controllers\IndexController.php on line 16
+[16-May-2016 18:27:11 Europe/Berlin] PHP Fatal error:  Call to undefined method IndexController::view() in C:\xampp\htdocs\Evi\app\controllers\IndexController.php on line 18
+[16-May-2016 18:29:03 Europe/Berlin] PHP Notice:  Undefined variable: controllerClass in C:\xampp\htdocs\Evi\app\core\Router.php on line 42
+[16-May-2016 18:29:03 Europe/Berlin] PHP Fatal error:  Call to a member function index() on null in C:\xampp\htdocs\Evi\app\core\Router.php on line 42
+[16-May-2016 18:30:12 Europe/Berlin] PHP Fatal error:  Class 'Data_MySQL' not found in C:\xampp\htdocs\Evi\app\controllers\IndexController.php on line 19
+[16-May-2016 18:30:29 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in C:\xampp\htdocs\Evi\app\extensions\Data\Mysql.php on line 74
+[16-May-2016 18:31:44 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'log' (T_STRING), expecting variable (T_VARIABLE) in C:\xampp\htdocs\Evi\app\extensions\DebugLogger.php on line 4
+[19-May-2016 14:25:03 UTC] PHP Warning:  require_once(C:\xampp\htdocs\microframework/appextensions/Data/MySQL.php): failed to open stream: No such file or directory in C:\xampp\htdocs\microframework\app\core\Autoloader.php on line 8
+[19-May-2016 14:25:03 UTC] PHP Fatal error:  require_once(): Failed opening required 'C:\xampp\htdocs\microframework/appextensions/Data/MySQL.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\microframework\app\core\Autoloader.php on line 8
+[19-May-2016 14:25:05 UTC] PHP Warning:  require_once(C:\xampp\htdocs\microframework/appextensions/Data/MySQL.php): failed to open stream: No such file or directory in C:\xampp\htdocs\microframework\app\core\Autoloader.php on line 8
+[19-May-2016 14:25:05 UTC] PHP Fatal error:  require_once(): Failed opening required 'C:\xampp\htdocs\microframework/appextensions/Data/MySQL.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\microframework\app\core\Autoloader.php on line 8
+[19-May-2016 14:26:07 UTC] PHP Fatal error:  Call to undefined method IndexController::upload() in C:\xampp\htdocs\microframework\app\core\Router.php on line 47
+[19-May-2016 14:26:59 UTC] PHP Fatal error:  Call to undefined method IndexController::upload() in C:\xampp\htdocs\microframework\app\core\Router.php on line 47
+[19-May-2016 14:49:45 UTC] PHP Notice:  Undefined variable: values in C:\xampp\htdocs\microframework\app\extensions\Data\Mysql.php on line 77
+[19-May-2016 14:52:26 UTC] PHP Fatal error:  Call to undefined method IndexController::index() in C:\xampp\htdocs\microframework\app\core\Router.php on line 47
+[19-May-2016 15:00:10 UTC] PHP Fatal error:  Call to undefined method IndexController::index() in C:\xampp\htdocs\microframework\app\core\Router.php on line 47
+[19-May-2016 15:07:08 UTC] PHP Fatal error:  Call to undefined method IndexController::index() in C:\xampp\htdocs\microframework\app\core\Router.php on line 47
+[19-May-2016 15:14:03 UTC] PHP Warning:  require_once(C:\xampp\htdocs\microframework/app/controllers/SController.php): failed to open stream: No such file or directory in C:\xampp\htdocs\microframework\app\core\Router.php on line 41
+[19-May-2016 15:14:03 UTC] PHP Fatal error:  require_once(): Failed opening required 'C:\xampp\htdocs\microframework/app/controllers/SController.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\microframework\app\core\Router.php on line 41
+[19-May-2016 15:14:44 UTC] PHP Warning:  require_once(C:\xampp\htdocs\microframework/app/controllers/IndexsController.php): failed to open stream: No such file or directory in C:\xampp\htdocs\microframework\app\core\Router.php on line 41
+[19-May-2016 15:14:44 UTC] PHP Fatal error:  require_once(): Failed opening required 'C:\xampp\htdocs\microframework/app/controllers/IndexsController.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\microframework\app\core\Router.php on line 41
